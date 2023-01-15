@@ -1,0 +1,13 @@
+HARDWARE REQUIREMENTS:
+
+1.  Arduino UNO
+2.  WS2812Bs LEDs
+3.  Jumpers
+4.  Processing IDE
+5.  Arduino IDE
+
+LED Grid:
+Bottom LEFT		- 17
+Bottom Right 	- 17
+Sides			- 20
+Top			- 35
